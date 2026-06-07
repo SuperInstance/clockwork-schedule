@@ -1,0 +1,9 @@
+[package]
+name = "clockwork-schedule"
+version = "0.1.0"
+description = "Deterministic scheduling via clockwork mechanics"
+repository = "https://github.com/SuperInstance/clockwork-schedule"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
